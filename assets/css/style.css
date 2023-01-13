@@ -10,6 +10,7 @@ body {
     font-family: 'Trebuchet MS', Verdana, 'Gill Sans', sans-serif;
     background-color: #8e8e8e;
     color: #ffffff;
+    
 }
 
 .header {
@@ -68,14 +69,14 @@ body {
 }
 
 .projects-heading {
-    font-size: 70px;
+    font-size: 25px;
     font-weight: border;
     margin-top: 250px;
 }
 .contact-me-heading {
-    font-size: 70px;
+    font-size: 25px;
     font-weight: bolder;
-    margin-top: 600px;
+    margin-top: 1500px;
     margin-right: 20px;
     margin-bottom: 50px;
 }
@@ -121,16 +122,22 @@ ul {
 }
 
 .about-me-desc {
-    font-size: 30px;
+    font-size: 20px;
     margin: 1%;
     padding: 1%;
 }
 
-.projects {
+.projects-2 {
     display: flex; 
     justify-content: center;
     margin: 2%;
     padding: 2%;
+}
+
+.projects-2:hover {
+    cursor: pointer;
+    border: #5c0101 solid 5px;
+    border-radius: 10px;
 }
 
 .main-project {
@@ -145,6 +152,7 @@ ul {
     border: #5c0101 solid 5px;
     border-radius: 10px;
 }
+
 
 .break {
     flex-basis: 100%;
