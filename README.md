@@ -14,6 +14,6 @@ Below is an image of the website
 
 
 Here is link to live website:
-> <>
+> <https://sainty93.github.io/jennifer-g-portfolio/>
 
 
